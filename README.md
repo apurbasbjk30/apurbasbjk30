@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apurbasbjk30
 - 👀 I’m interested in learning and creating new things
-- 🌱 I’m currently learning JAVA
+
 
 <!---
 apurbasbjk30/apurbasbjk30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
